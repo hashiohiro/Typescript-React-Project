@@ -1,6 +1,6 @@
 using System;
 
-namespace Typescript_React_Project.Models
+namespace Gruppy.Web.Models
 {
     public class ErrorViewModel
     {
